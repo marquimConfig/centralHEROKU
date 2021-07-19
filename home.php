@@ -17,12 +17,12 @@ include('widget/menu.php');
         <section>
             <div class="row">
                 <div class="col-md-4">
-                    <a class="" href="/centralteste/pages/ativar_internet.php">
+                    <a class="" href="https://central-mega.herokuapp.com/pages/ativar_internet.php">
                         <div class="card">
                             <div class="card-body py-2 px-4">
                                 <div class="d-flex align-items-center">
                                     <div class="avatar">
-                                        <img src="/centralteste/assets/images/faces/wifi.jpg" alt="Face 1">
+                                        <img src="https://central-mega.herokuapp.com/assets/images/faces/wifi.jpg" alt="Face 1">
                                     </div>
                                     <div class="ms-4">
                                         <h5 class="font-bold">Ativar Internet</h5>
@@ -47,12 +47,12 @@ include('widget/menu.php');
                 <!--    </a>-->
                 <!--</div>-->
                 <div class="col-md-4">
-                    <a href="/centralteste/pages/boletos.php">
+                    <a href="https://central-mega.herokuapp.com/pages/boletos.php">
                         <div class="card">
                             <div class="card-body py-2 px-4">
                                 <div class="d-flex align-items-center">
                                     <div class="avatar">
-                                        <img src="/centralteste/assets/images/faces/cash.jpg" alt="Face 1">
+                                        <img src="https://central-mega.herokuapp.com/assets/images/faces/cash.jpg" alt="Face 1">
                                     </div>
                                     <div class="ms-4 name">
                                         <h5 class="font-bold">Boletos</h5>

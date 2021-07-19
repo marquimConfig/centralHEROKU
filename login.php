@@ -14,8 +14,8 @@ use App\Api\Source\Cliente;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Central do Assinante - SAC</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/centralteste/assets/css/bootstrap.css">
-    <link rel="stylesheet" href="/centralteste/assets/vendors/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/vendors/bootstrap-icons/bootstrap-icons.css">
     <!--    <link rel="stylesheet" href="/CENTRAL-MEGA/assets/css/app.css">-->
     <!--    <link rel="stylesheet" href="/CENTRAL-MEGA/assets/css/auth.css">-->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"
@@ -194,10 +194,10 @@ if (isset($_POST['logar'])) {
 <!--</div>-->
 
 
-<script src="/centralteste/assets/js/mascaras.js"></script>
-<script src="/centralteste/assets/js/jquery.mask.js"></script>
-<script src="/centralteste/assets/js/bootstrap.bundle.min.js"></script>
-<script src="/centralteste/pages/js/login/default.js"></script>
+<script src="https://central-mega.herokuapp.com/assets/js/mascaras.js"></script>
+<script src="https://central-mega.herokuapp.com/assets/js/jquery.mask.js"></script>
+<script src="https://central-mega.herokuapp.com/assets/js/bootstrap.bundle.min.js"></script>
+<script src="https://central-mega.herokuapp.com/pages/js/login/default.js"></script>
 </body>
 
 </html>

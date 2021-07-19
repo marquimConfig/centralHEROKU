@@ -6,12 +6,12 @@
     <title>SAC - MEGA LINK</title>
 <!--    <link rel="preconnect" href="https://fonts.gstatic.com">-->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/centralteste/assets/css/bootstrap.css">
-    <link rel="stylesheet" href="/centralteste/assets/css/cpy.css">
-    <link rel="stylesheet" href="/centralteste/assets/vendors/iconly/bold.css">
-    <link rel="stylesheet" href="/centralteste/assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
-    <link rel="stylesheet" href="/centralteste/assets/vendors/bootstrap-icons/bootstrap-icons.css">
-    <link rel="stylesheet" href="/centralteste/assets/css/app.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/css/cpy.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/vendors/iconly/bold.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/vendors/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://central-mega.herokuapp.com/assets/css/app.css">
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script
             src="https://code.jquery.com/jquery-3.6.0.js"

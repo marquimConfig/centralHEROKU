@@ -3,7 +3,7 @@
         <div class="sidebar-header">
             <div class="d-flex justify-content-between">
                 <div>
-                    <img style="height: 10rem;" src="/centralteste/assets/images/logo/logo_mega_login.png">
+                    <img style="height: 10rem;" src="https://central-mega.herokuapp.com/assets/images/logo/logo_mega_login.png">
                 </div>
                 <div class="toggler">
                     <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
@@ -16,7 +16,7 @@
                 <li class="sidebar-title">Menu</li>
 
                 <li class="sidebar-item active">
-                    <a href="/centralteste/home.php" class="sidebar-link">
+                    <a href="https://central-mega.herokuapp.com/home.php" class="sidebar-link">
                         <i class="bi bi-opcoes"></i>
                         <span>Principal</span>
                     </a>
@@ -25,7 +25,7 @@
 
 
                 <li class="sidebar-item">
-                    <a href="/centralteste/pages/boletos.php" class="sidebar-link">
+                    <a href="https://central-mega.herokuapp.com/pages/boletos.php" class="sidebar-link">
                         <i class="bi bi-cash"></i>
                         <span>Segunda Via Boleto</span>
                     </a>
@@ -46,7 +46,7 @@
                 <!--</li>-->
 
                 <li class="sidebar-item">
-                    <a href="/centralteste/pages/logout.php" class="sidebar-link">
+                    <a href="https://central-mega.herokuapp.com/pages/logout.php" class="sidebar-link">
                         <i class="bi bi-file-earmark-medical-fill"></i>
                         <span>Sair</span>
                     </a>
