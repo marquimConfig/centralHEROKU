@@ -22,16 +22,12 @@
                     </a>
                 </li>
 
-
-
                 <li class="sidebar-item">
                     <a href="https://central-mega.herokuapp.com/pages/boletos.php" class="sidebar-link">
                         <i class="bi bi-cash"></i>
                         <span>Segunda Via Boleto</span>
                     </a>
                 </li>
-
-
 
                 <!--<li class="sidebar-item  has-sub">-->
                 <!--    <a href="#" class="sidebar-link">-->
