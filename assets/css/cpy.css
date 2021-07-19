@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.copyitenqr {
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.copyitenqr::before,
+.copyitenqr::after {
+    --scale: 0;
+    cursor: pointer;
+    position: absolute;
+    text-justify: auto;
+    padding: .5rem;
+    border-radius: 4%;
+    background: #435ebe;
+    transform: scale(var(--scale));
+    transition: 150ms transform;
+    /*content: attr(data-tooltip);*/
+}
+
+.copyitenqr::before {
+    content: attr(data-tooltip);
+    height: 37.53px;
+    min-width: 100%;
+    color: #fefefe;
+    background: #435ebe;
+}
+
+.copyitenqr:hover::before {
+    --scale: 1;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "dev_mlin/central-mega",
+  "description": "central do assinante",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PABLO-G3",
+      "email": "contato@megalink.net.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  },
+  "require": {
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}
