@@ -12,9 +12,9 @@
 <body>
     <?php 
         if(!isset($_SESSION['login'])){
-            include_once('login.php');
+            include_once('https://central-mega.herokuapp.com/login.php');
         }else{
-            include_once('home.php');
+            include_once('https://central-mega.herokuapp.com/home.php');
         }
     ?>
 
